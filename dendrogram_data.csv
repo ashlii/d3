@@ -1,29 +1,29 @@
 id,value,color
 CA_all_stocks
 CA_all_stocks.sp_ig
-CA_all_stocks.sp_ig.pass,202,#80A0A0
-CA_all_stocks.sp_ig.fail,0,#808080
+CA_all_stocks.sp_ig.pass,202,#808080
+CA_all_stocks.sp_ig.fail,0,#80A0A0
 CA_all_stocks.moodys_ig
-CA_all_stocks.moodys_ig.pass,202,#80A0A0
-CA_all_stocks.moodys_ig.fail,0,#808080
+CA_all_stocks.moodys_ig.pass,202,#808080
+CA_all_stocks.moodys_ig.fail,0,#80A0A0
 CA_all_stocks.fitch_ig
-CA_all_stocks.fitch_ig.pass,202,#80A0A0
-CA_all_stocks.fitch_ig.fail,0,#808080
+CA_all_stocks.fitch_ig.pass,202,#808080
+CA_all_stocks.fitch_ig.fail,0,#80A0A0
 CA_all_stocks.Dividend_Size_L1 not empty
-CA_all_stocks.Dividend_Size_L1 not empty.pass,161,#80A0A0
-CA_all_stocks.Dividend_Size_L1 not empty.fail,41,#808080
+CA_all_stocks.Dividend_Size_L1 not empty.pass,161,#808080
+CA_all_stocks.Dividend_Size_L1 not empty.fail,41,#80A0A0
 CA_all_stocks.Dividend_Size_L2 not empty
-CA_all_stocks.Dividend_Size_L2 not empty.pass,156,#80A0A0
-CA_all_stocks.Dividend_Size_L2 not empty.fail,46,#808080
+CA_all_stocks.Dividend_Size_L2 not empty.pass,156,#808080
+CA_all_stocks.Dividend_Size_L2 not empty.fail,46,#80A0A0
 CA_all_stocks.Dividend_Size >004
-CA_all_stocks.Dividend_Size >004.pass,163,#80A0A0
-CA_all_stocks.Dividend_Size >004.fail,39,#808080
+CA_all_stocks.Dividend_Size >004.pass,163,#808080
+CA_all_stocks.Dividend_Size >004.fail,39,#80A0A0
 CA_all_stocks.Dividend Growth L0
-CA_all_stocks.Dividend Growth L0.pass,120,#80A0A0
-CA_all_stocks.Dividend Growth L0.fail,82,#808080
+CA_all_stocks.Dividend Growth L0.pass,120,#808080
+CA_all_stocks.Dividend Growth L0.fail,82,#80A0A0
 CA_all_stocks.Dividend Difference L1
-CA_all_stocks.Dividend Difference L1.pass,145,#80A0A0
-CA_all_stocks.Dividend Difference L1.fail,57,#808080
+CA_all_stocks.Dividend Difference L1.pass,145,#808080
+CA_all_stocks.Dividend Difference L1.fail,57,#80A0A0
 CA_all_stocks.topN
-CA_all_stocks.topN.pass,55,#80A0A0
-CA_all_stocks.topN.fail,147,#808080
+CA_all_stocks.topN.pass,55,#808080
+CA_all_stocks.topN.fail,147,#80A0A0
